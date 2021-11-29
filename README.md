@@ -1,9 +1,6 @@
 # Grocery Manager
 Console Grocery Manager Utility
 
-# Pomodoro Timer
-Various Implementations of a Pomodoro Timer
-
 ## Installing
 
 Install with 
