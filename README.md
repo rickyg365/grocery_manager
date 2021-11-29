@@ -1,4 +1,4 @@
-# grocery_manager
+# Grocery Manager
 Console Grocery Manager Utility
 
 # Pomodoro Timer
