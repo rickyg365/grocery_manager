@@ -9,6 +9,11 @@ Install with
 
 ## Countdown
 
+<details>
+<summary>Heading</summary>
+
+some detail
+</details>
 ```python
 [ Title ]: [MM:SS] | final -> 0
 ```
@@ -16,6 +21,11 @@ Install with
 
 ## Regular
 
+<details>
+<summary>Heading</summary>
+
+some detail
+</details>
 ```python
 [ Title ]: [MM:SS] | 0 -> final
 ```
