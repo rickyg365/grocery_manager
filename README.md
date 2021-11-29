@@ -10,7 +10,7 @@ Install with
 ## Countdown
 
 <details>
-<summary>Heading</summary>
+<summary></summary>
 
 some detail
 </details>
@@ -23,7 +23,7 @@ some detail
 ## Regular
 
 <details>
-<summary>Heading</summary>
+<summary></summary>
 
 some detail
 </details>
