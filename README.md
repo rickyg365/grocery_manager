@@ -14,6 +14,7 @@ Install with
 
 some detail
 </details>
+
 ```python
 [ Title ]: [MM:SS] | final -> 0
 ```
@@ -26,6 +27,7 @@ some detail
 
 some detail
 </details>
+
 ```python
 [ Title ]: [MM:SS] | 0 -> final
 ```
